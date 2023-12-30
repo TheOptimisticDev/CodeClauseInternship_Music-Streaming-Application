@@ -30,7 +30,7 @@ T.O.D Music Player is a web-based music player developed for the CodeClause inte
 
 1. **Open the project directory:**
     ```bash
-    cd CodeClause_Music-Streaming-Application
+    cd CodeClauseInternship_Music-Streaming-Application
     ```
 
 2. **Open `index.html` in your web browser.**
