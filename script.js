@@ -124,6 +124,7 @@ function randomTrack() {
     isRandom ? pauseRandom() : playRandom();
 }
 function playRandom() {
+    console.log ("rand s")
     isRandom = true;
     randomIcon.classList.add('randomActive');
 }
